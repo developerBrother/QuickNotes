@@ -7,3 +7,20 @@ button{
     border-style:none;
 width:100%;
 }
+
+.customButton{
+    
+    justify-content:right;
+    background-color:rgba(0,0,0,0.0);
+    color:none;
+    
+}
+
+.customIcon{
+    position:absolute;
+    color:red;
+    margin-left:45%;
+    margin-top:0.5rem;
+    z-index:1;
+    
+}
